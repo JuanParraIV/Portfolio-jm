@@ -36,6 +36,14 @@
         "url": "https://github.com/JuanParraIV",
         "className": "fa fa-github"
       }
+    ],
+    
+    "socialWsp":[
+      {
+        "name":"whatsapp",
+        "url":"https://wa.me/+573502053590",
+        "className":"fa fa-whatsapp"
+      }
     ]
   },
   "resume": {

@@ -12,6 +12,16 @@ const About = ({ data }) => {
     var phone = data.phone;
     var email = data.email;
     var resumeDownload = data.resumedownload;
+    var networkWsp = data.socialWsp.map(function (network) {
+        return (
+          <li key={network.name}>
+            <a href={network.url}>
+              <i className={network.className}></i>
+            </a>
+          </li>
+        );
+      });
+    
   }
 
   return (
@@ -40,9 +50,13 @@ const About = ({ data }) => {
                   {city} {state}, {zip}
                 </span>
                 <br />
-                <span>{phone}</span>
-                <br />
+                <span>
+                  {phone}{" "}
+                </span>
                 <span>{email}</span>
+                  <ul className="social">{networkWsp}</ul>
+
+                <br />
               </p>
             </div>
             <div className="columns download">
