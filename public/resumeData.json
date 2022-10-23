@@ -14,7 +14,7 @@
       "zip": "W3B D3V"
     },
     "website": "",
-    "resumedownload": "https://drive.google.com/uc?export=download&id=1N7upQo-omL_wH3cSXSvqpg8Mu0-Anb9M",
+    "resumedownload": "https://drive.google.com/uc?export=download&id=1ePErcuf0JqT1csyJwc_boO6BFSYoDeeF",
     "social": [
       {
         "name": "facebook",
@@ -79,11 +79,11 @@
       },
       {
         "name": "Tailwind Css",
-        "level": "80%"
+        "level": "100%"
       },
       {
         "name": "Git",
-        "level": "70%"
+        "level": "100%"
       },
       {
         "name": "JavaScript",
@@ -91,7 +91,7 @@
       },
       {
         "name": "TypeScript",
-        "level": "70%"
+        "level": "95%"
       },
       {
         "name": "NodeJs",
@@ -99,21 +99,27 @@
       },
       {
         "name": "MongoDB",
-        "level": "75%"
+        "level": "95%"
       },
       {
         "name": "ExpressJs",
-        "level": "85%"
+        "level": "95%"
       },
       {
         "name": "PostgreSQL",
-        "level": "85%"
+        "level": "95%"
       }
       
     ]
   },
   "portfolio": {
     "projects": [
+      {
+        "title": "Tiger Dev - Music E-commerce",
+        "category": "E-Commerce",
+        "image": "rawg.jpg",
+        "url": "https://https://musicommerce2022.vercel.app/"
+      },
       {
         "title": "Jm Rawg VideoGames",
         "category": "",
