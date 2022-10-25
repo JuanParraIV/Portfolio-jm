@@ -3,7 +3,7 @@
     "name": "Juan M. Parra D.",
     "occupation": "Full Stack JavaScript Developer",
     "image": "profilepic.png",
-    "bio": "I am a Full Stack JavaScript Developer and a computer engineer highly enthusiastic about learning the best practices to improve as a professional, I really enjoy exploring new technologies, standards and methods that allow me to develop modern and powerful applications. passionate about challenges, I really like being able to understand the problems to provide an optimal solution, I am always willing to learn more, since curiosity is a quality that characterizes me because I always want to know in an integral, specific and general way about some software that wants to be developed.",
+    "bio": "Highly enthusiastic Computer engineer with 6 month of experience in web development. He always learning the best practices to improve solutions as a professional, He really enjoy explorer new technologies, standards and methods that allow him to develop modern and powerful applications. He really like being able to understand the problems to provide an optimal solution, He always willing to learn more, since curiosity is a quality that characterizes him because he always want to know in an integral, specific and general way about some software that wants to be developed.",
     "contactmessage": "Feel free to contact me for a project request. ",
     "email": "jmparra1993@gmail.com",
     "phone": "+57 3502053590",
@@ -11,9 +11,9 @@
       "street": "CL 16A # 19 - 55 Dangond",
       "city": "Valledupar",
       "state": "Colombia",
-      "zip": "W3B D3V"
+      "zip": "2000001"
     },
-    "website": "",
+    "website": "https://portfolio-jm.vercel.app/",
     "resumedownload": "https://drive.google.com/uc?export=download&id=1ePErcuf0JqT1csyJwc_boO6BFSYoDeeF",
     "social": [
       {
@@ -47,26 +47,30 @@
     ]
   },
   "resume": {
-    "skillmessage": "My Programming Language Proficiency",
+    "skillmessage": "My Featured Skills",
     "education": [
       {
         "school": "University Dr. Rafael Belloso Chacín",
         "degree": "Bachelor's Degree, Computer Engineering",
-        "graduated": "Oct 2014",
-        "description": "Graduated with First Class Honours"
+        "graduated": "Dec 2014",
+        "description": "trained for the diagnosis of information needs in organizations and the design and implementation of automated systems aimed at providing, in a reliable and timely manner, the information required for decision making at the tactical, strategic and operational levels"
       }
     ],
     "work": [
       {
-        "company": "Freelancer",
-        "title": "Freelancer",
-        "years": "Jan 2022 - Present",
+        "company": "Freelancer Independent",
+        "title": "Freelancer FullStack Developer",
+        "years": "March 2022 - Present",
         "description": "specialist on web developing ground and got a profound knowledge of doing anything related to this platform. Also, I have got an impressive urgency of learning and gaining new skills and knowledge with total ease."
       }
     ],
     "skills": [
       {
         "name": "Web Development",
+        "level": "95%"
+      },
+      {
+        "name": "Bash Scripting",
         "level": "95%"
       },
       {
@@ -90,6 +94,10 @@
         "level": "99%"
       },
       {
+        "name": "Python",
+        "level": "95%"
+      },
+      {
         "name": "TypeScript",
         "level": "95%"
       },
@@ -108,6 +116,10 @@
       {
         "name": "PostgreSQL",
         "level": "95%"
+      },
+      {
+        "name": "NestJS",
+        "level": "95%"
       }
       
     ]
@@ -118,7 +130,7 @@
         "title": "Tiger Dev - Music E-commerce",
         "category": "E-Commerce",
         "image": "rawg.jpg",
-        "url": "https://https://musicommerce2022.vercel.app/"
+        "url": "https://musicommerce2022.vercel.app/"
       },
       {
         "title": "Jm Rawg VideoGames",
