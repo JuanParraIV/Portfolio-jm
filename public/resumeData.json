@@ -1,7 +1,7 @@
 {
   "main": {
     "name": "Juan Mario Parra D'Errico",
-    "occupation": "Full Stack Developer | DevOps Trainee",
+    "occupation": "`Full Stack Developer | DevOps Trainee`",
     "image": "profilepic.png",
     "bio": "Highly enthusiastic Computer engineer with 8 month of experience in web development. He always learning the best practices to improve solutions as a professional, He really enjoy explorer new technologies, standards and methods that allow him to develop modern and powerful applications. He really like being able to understand the problems to provide an optimal solution, He always willing to learn more, since curiosity is a quality that characterizes him because he always want to know in an integral, specific and general way about some software that wants to be developed.",
     "contactmessage": "Feel free to contact me for a project request. ",
@@ -68,13 +68,13 @@
         "company": "Azordev",
         "title": "Freelancer React Developer",
         "years": "Sept 2022 - Present",
-        "description": "• Look for improvements to the code .• Create new components from previous ones to have a more organized.• Develop project concepts and maintain optimal workflow.• Work with senior developer to manage large, complex design project corporate clients.• Solve issues spotted by the QA team."
+        "description": "Look for improvements to the code. Create new components from previous ones to have a more organized. Develop project concepts and maintain optimal workflow. Work with senior developer to manage large, complex design project corporate clients. Solve issues spotted by the QA team."
       },
       {
         "company": "Wow Desarrollos",
         "title": "FullStack Developer",
         "years": "Jun 2022 - Sept 2022",
-        "description": "• Look for improvements to the code .• Analyze and build software solutions.• Optimization and maintaining web applications.• Solve issues spotted by the QA team."
+        "description": "Look for improvements to the code . Analyze and build software solutions. Optimization and maintaining web applications. Solve issues spotted by the QA team."
       },
       {
         "company": "Freelancer Independent",
