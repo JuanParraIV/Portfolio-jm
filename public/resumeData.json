@@ -1,16 +1,17 @@
 {
   "main": {
-    "name": "Juan M. Parra D.",
-    "occupation": "Full Stack JavaScript Developer",
+    "name": "Juan Mario Parra D'Errico",
+    "occupation": "Full Stack Developer | DevOps Trainee",
     "image": "profilepic.png",
-    "bio": "Highly enthusiastic Computer engineer with 6 month of experience in web development. He always learning the best practices to improve solutions as a professional, He really enjoy explorer new technologies, standards and methods that allow him to develop modern and powerful applications. He really like being able to understand the problems to provide an optimal solution, He always willing to learn more, since curiosity is a quality that characterizes him because he always want to know in an integral, specific and general way about some software that wants to be developed.",
+    "bio": "Highly enthusiastic Computer engineer with 8 month of experience in web development. He always learning the best practices to improve solutions as a professional, He really enjoy explorer new technologies, standards and methods that allow him to develop modern and powerful applications. He really like being able to understand the problems to provide an optimal solution, He always willing to learn more, since curiosity is a quality that characterizes him because he always want to know in an integral, specific and general way about some software that wants to be developed.",
     "contactmessage": "Feel free to contact me for a project request. ",
     "email": "jmparra1993@gmail.com",
     "phone": "+57 3502053590",
     "address": {
       "street": "CL 16A # 19 - 55 Dangond",
       "city": "Valledupar",
-      "state": "Colombia",
+      "state": "Cesar",
+      "country":"Colombia"
       "zip": "2000001"
     },
     "website": "https://portfolio-jm.vercel.app/",
@@ -50,6 +51,12 @@
     "skillmessage": "My Featured Skills",
     "education": [
       {
+        "school": "SoyHenry Bootcamp",
+        "degree": "Full-Stack Developer",
+        "graduated": "March 2023",
+        "description": "Develop applications in web environments under the Front end and Back end approach for the development of dynamic websites with updated technological tools."
+      },
+      {
         "school": "University Dr. Rafael Belloso Chacín",
         "degree": "Bachelor's Degree, Computer Engineering",
         "graduated": "Dec 2014",
@@ -57,6 +64,18 @@
       }
     ],
     "work": [
+      {
+        "company": "Azordev",
+        "title": "Freelancer React Developer",
+        "years": "Sept 2022 - Present",
+        "description": "• Look for improvements to the code .• Create new components from previous ones to have a more organized.• Develop project concepts and maintain optimal workflow.• Work with senior developer to manage large, complex design project corporate clients.• Solve issues spotted by the QA team."
+      },
+      {
+        "company": "Wow Desarrollos",
+        "title": "FullStack Developer",
+        "years": "Jun 2022 - Sept 2022",
+        "description": "• Look for improvements to the code .• Analyze and build software solutions.• Optimization and maintaining web applications.• Solve issues spotted by the QA team."
+      },
       {
         "company": "Freelancer Independent",
         "title": "Freelancer FullStack Developer",
