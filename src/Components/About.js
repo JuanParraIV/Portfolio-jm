@@ -6,6 +6,7 @@ const About = ({ data }) => {
     var profilepic = "images/" + data.image;
     var bio = data.bio;
     var street = data.address.street;
+    var country = data.address.country;
     var city = data.address.city;
     var state = data.address.state;
     var zip = data.address.zip;
@@ -47,7 +48,7 @@ const About = ({ data }) => {
                 <span>
                   {street}
                   <br />
-                  {city} {state}, {zip}
+                  {city} {state} {country}, {zip}
                 </span>
                 <br />
                 <span>
