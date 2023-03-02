@@ -18,14 +18,14 @@
     "resumedownload": "https://drive.google.com/uc?export=download&id=1ePErcuf0JqT1csyJwc_boO6BFSYoDeeF",
     "social": [
       {
-        "name": "facebook",
-        "url": "https://www.facebook.com/juanparraiv",
-        "className": "fa fa-facebook"
-      },
-      {
         "name": "linkedin",
         "url": "https://www.linkedin.com/in/juanparraiv",
         "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/JuanParraIV",
+        "className": "fa fa-github"
       },
       {
         "name": "instagram",
@@ -33,10 +33,15 @@
         "className": "fa fa-instagram"
       },
       {
-        "name": "github",
-        "url": "https://github.com/JuanParraIV",
-        "className": "fa fa-github"
-      }
+        "name": "twitter",
+        "url": "https://twitter.com/JuanParraIV",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/juanparraiv",
+        "className": "fa fa-facebook"
+      },
     ],
     
     "socialWsp":[
@@ -86,7 +91,15 @@
     "skills": [
       {
         "name": "Web Development",
-        "level": "95%"
+        "level": "100%"
+      },
+      {
+        "name": "FrontEnd Development",
+        "level": "100%"
+      },
+      {
+        "name": "BackEnd Development",
+        "level": "100%"
       },
       {
         "name": "Bash Scripting",
@@ -98,15 +111,15 @@
       },
       {
         "name": "NextJs",
-        "level": "100%"
+        "level": "99%"
       },
       {
         "name": "Tailwind Css",
-        "level": "100%"
+        "level": "99%"
       },
       {
         "name": "Git",
-        "level": "100%"
+        "level": "99%"
       },
       {
         "name": "JavaScript",
@@ -118,27 +131,27 @@
       },
       {
         "name": "TypeScript",
-        "level": "95%"
+        "level": "99%"
       },
       {
         "name": "NodeJs",
-        "level": "90%"
+        "level": "99%"
       },
       {
         "name": "MongoDB",
-        "level": "95%"
+        "level": "99%"
       },
       {
         "name": "ExpressJs",
-        "level": "95%"
+        "level": "99%"
       },
       {
         "name": "PostgreSQL",
-        "level": "95%"
+        "level": "99%"
       },
       {
         "name": "NestJS",
-        "level": "95%"
+        "level": "99%"
       }
       
     ]
@@ -146,9 +159,15 @@
   "portfolio": {
     "projects": [
       {
+        "title": "Sneaker Society E-commerce",
+        "category": "E-Commerce",
+        "image": "https://frontend-sneakers.vercel.app/assets/Logo-96e1d53d.png",
+        "url": "https://frontend-sneakers.vercel.app/"
+      },
+      {
         "title": "Tiger Dev - Music E-commerce",
         "category": "E-Commerce",
-        "image": "rawg.jpg",
+        "image": "https://musicommerce2022.vercel.app/static/media/Logo.9a4fd7b9534bba1a5781.png",
         "url": "https://musicommerce2022.vercel.app/"
       },
       {
