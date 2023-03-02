@@ -6,6 +6,7 @@ const Header = ({ data }) => {
     var name = data.name;
     var occupation = data.occupation;
     var description = data.description;
+    var country = data.address.country;
     var city = data.address.city;
     var networks = data.social.map(function (network) {
       return (
@@ -68,7 +69,7 @@ const Header = ({ data }) => {
             <TypeWriter typing={0.5}>{name ? `I'm ${name}.` : null}</TypeWriter>
           </h1>
           <h3>
-            Based in {city}. <span>{occupation}</span>. {description}.
+            Based in {country}. <span>{occupation}</span>. {description}.
           </h3>
           <hr />
           <ul className="social">{networks}</ul>
