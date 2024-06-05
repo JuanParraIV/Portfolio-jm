@@ -12,7 +12,12 @@ const About = ({ data }) => {
     var zip = data.address.zip;
     var phone = data.phone;
     var email = data.email;
-    var resumeDownload = data.resumedownload;
+    var resumeDownload_EN = data.resumedownload_EN;
+    var resumeDownload_EN_Now = data.resumedownload_EN_Now;
+    var resumeDownload_ES = data.resumedownload_ES;
+    var resumeDownload_ES_Now = data.resumedownload_ES_Now;
+
+
     var networkWsp = data.socialWsp.map(function (network) {
         return (
           <li key={network.name}>
@@ -29,11 +34,7 @@ const About = ({ data }) => {
     <section id="about">
       <div className="row">
         <div className="three columns">
-          <img
-            className="profile-pic"
-            src={profilepic}
-            alt="Jm's Profile Pic"
-          />
+          <img className="profile-pic" src={profilepic} alt="Jm's Profile Pic" />
         </div>
         <div className="nine columns main-col">
           <h2>About Me</h2>
@@ -51,19 +52,34 @@ const About = ({ data }) => {
                   {city} {state} {country}, {zip}
                 </span>
                 <br />
-                <span>
-                  {phone}{" "}
-                </span>
+                <span>{phone} </span>
                 <span>{email}</span>
-                  <ul className="social">{networkWsp}</ul>
+                <ul className="social">{networkWsp}</ul>
 
                 <br />
               </p>
             </div>
             <div className="columns download">
               <p>
-                <a href={resumeDownload} className="button">
-                  <i className="fa fa-download"></i>Download Resume
+                <a href={resumeDownload_EN_Now} className="button">
+                  <i className="fa fa-download"></i>Download Resume EN
+                </a>
+              </p>
+              <p>
+                <a href={resumeDownload_ES_Now} className="button">
+                  <i className="fa fa-download"></i>Download Resume ES
+                </a>
+              </p>
+            </div>
+            <div className="columns download">
+              <p>
+                <a href={resumeDownload_EN} className="button">
+                  <i className="fa fa-download"></i>
+                </a>
+              </p>
+              <p>
+                <a href={resumeDownload_ES} className="button">
+                  <i className="fa fa-download"></i>
                 </a>
               </p>
             </div>
