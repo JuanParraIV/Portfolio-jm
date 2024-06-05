@@ -73,14 +73,20 @@
     ],
     "work": [
       {
+        "company": "SYNERGIART SL",
+        "title": "DevOps Developer",
+        "years": "Dec 2023 - Present",
+        "description": "Automate CI/CD: Integration tests and deployment was manual so my next task was to automate this process using GitHub Actions/Jenkins and introduce tools such as Docker to improve development experience. Assisting in managing and maintaining version control systems like Git. Assisting in troubleshooting and resolving issues related deployments, or operations. Look for improvements to the code. Create new components from previous ones to have a more organized. Develop project concepts and maintain optimal workflow. Work with senior developer to manage large, complex design project corporate clients. Solve issues spotted by the QA team."
+      },
+      {
         "company": "Azordev",
-        "title": "Freelancer React Developer",
-        "years": "Sept 2022 - Present",
+        "title": "Frontend Developer",
+        "years": "Sept 2022 - May 2023",
         "description": "Look for improvements to the code. Create new components from previous ones to have a more organized. Develop project concepts and maintain optimal workflow. Work with senior developer to manage large, complex design project corporate clients. Solve issues spotted by the QA team."
       },
       {
         "company": "Wow Desarrollos",
-        "title": "FullStack Developer",
+        "title": "FullStack Developer Trainee",
         "years": "Jun 2022 - Sept 2022",
         "description": "Look for improvements to the code . Analyze and build software solutions. Optimization and maintaining web applications. Solve issues spotted by the QA team."
       },
@@ -106,7 +112,7 @@
       },
       {
         "name": "Bash Scripting",
-        "level": "95%"
+        "level": "100%"
       },
       {
         "name": "ReactJs",
@@ -114,47 +120,47 @@
       },
       {
         "name": "NextJs",
-        "level": "99%"
+        "level": "100%"
       },
       {
         "name": "Tailwind Css",
-        "level": "99%"
+        "level": "100%"
       },
       {
         "name": "Git",
-        "level": "99%"
+        "level": "100%"
       },
       {
         "name": "JavaScript",
-        "level": "99%"
+        "level": "100%"
       },
       {
         "name": "Python",
-        "level": "95%"
+        "level": "100%"
       },
       {
         "name": "TypeScript",
-        "level": "99%"
+        "level": "100%"
       },
       {
         "name": "NodeJs",
-        "level": "99%"
+        "level": "100%"
       },
       {
         "name": "MongoDB",
-        "level": "99%"
+        "level": "100%"
       },
       {
         "name": "ExpressJs",
-        "level": "99%"
+        "level": "100%"
       },
       {
         "name": "PostgreSQL",
-        "level": "99%"
+        "level": "100%"
       },
       {
         "name": "NestJS",
-        "level": "99%"
+        "level": "100%"
       }
       
     ]

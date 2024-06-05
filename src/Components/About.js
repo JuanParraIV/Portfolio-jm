@@ -1,9 +1,9 @@
-import React from "react";
+import React from 'react';
 
 const About = ({ data }) => {
   if (data) {
     var name = data.name;
-    var profilepic = "images/" + data.image;
+    var profilepic = 'images/' + data.image;
     var bio = data.bio;
     var street = data.address.street;
     var country = data.address.country;
@@ -17,17 +17,15 @@ const About = ({ data }) => {
     var resumeDownload_ES = data.resumedownload_ES;
     var resumeDownload_ES_Now = data.resumedownload_ES_Now;
 
-
     var networkWsp = data.socialWsp.map(function (network) {
-        return (
-          <li key={network.name}>
-            <a href={network.url}>
-              <i className={network.className}></i>
-            </a>
-          </li>
-        );
-      });
-    
+      return (
+        <li key={network.name}>
+          <a href={network.url}>
+            <i className={network.className}></i>
+          </a>
+        </li>
+      );
+    });
   }
 
   return (
@@ -60,28 +58,30 @@ const About = ({ data }) => {
               </p>
             </div>
             <div className="columns download">
-              <p>
-                <a href={resumeDownload_EN_Now} className="button">
-                  <i className="fa fa-download"></i>Download Resume EN
-                </a>
-              </p>
-              <p>
-                <a href={resumeDownload_ES_Now} className="button">
-                  <i className="fa fa-download"></i>Download Resume ES
-                </a>
-              </p>
-            </div>
-            <div className="columns download">
-              <p>
-                <a href={resumeDownload_EN} className="button">
-                  <i className="fa fa-download"></i>
-                </a>
-              </p>
-              <p>
-                <a href={resumeDownload_ES} className="button">
-                  <i className="fa fa-download"></i>
-                </a>
-              </p>
+              <div className="row">
+                <p>
+                  <a href={resumeDownload_EN_Now} className="button">
+                    <i className="fa fa-download"></i>Download Resume EN
+                  </a>
+                </p>
+                <p>
+                  <a href={resumeDownload_EN} className="button">
+                    <i className="fa fa-eye"></i>
+                  </a>
+                </p>
+              </div>
+              <div className="row">
+                <p>
+                  <a href={resumeDownload_ES_Now} className="button">
+                    <i className="fa fa-download"></i>Download Resume ES
+                  </a>
+                </p>
+                <p>
+                  <a href={resumeDownload_ES} className="button">
+                    <i className="fa fa-eye"></i>
+                  </a>
+                </p>
+              </div>
             </div>
           </div>
         </div>
