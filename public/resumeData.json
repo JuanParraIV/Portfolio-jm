@@ -1,9 +1,9 @@
 {
   "main": {
     "name": "Juan Mario Parra D'Errico",
-    "occupation": "`Full Stack Developer | DevOps Padawan`",
-    "image": "profilepic.png",
-    "bio": "Juan Parra is a skilled Full-Stack Developer and emerging DevOps enthusiast, deeply passionate about harnessing technology to drive innovative solutions. Equipped with a solid foundation, Juan completed an immersive Full-Stack Development Bootcamp at Henry Technology S.A and holds a Bachelor's degree in Computer Engineering from URBE University. His technical proficiency extends across multiple languages and frameworks, encompassing JavaScript, Python, TypeScript, React.js, Next.js, Express.js, and FastAPI, among others. Juan has expertly navigated various databases like MongoDB, PostgreSQL, and MySQL, ensuring seamless integration and optimization across diverse applications.",
+    "occupation": "`DevOps | DevSecOps | Cloud Security Specialist`",
+    "image": "avatar.png",
+    "bio": "Juan Parra is a passionate about automating processes, scaling systems, and building secure, reliable cloud solutions. What drives me most is seeing how well-designed infrastructure empowers entire teams to move faster, safer, and with greater confidence. passionate about automating processes, scaling systems, and building secure, reliable cloud solutions. What drives me most is seeing how well-designed infrastructure empowers entire teams to move faster, safer, and with greater confidence.",
     "contactmessage": "Feel free to contact me for a project request. ",
     "email": "jmparra.dev@gmail.com",
     "phone": "+57 3502053590",
@@ -12,7 +12,7 @@
       "city": "Valledupar",
       "state": "Cesar",
       "country": "Colombia",
-      "zip": "2000001"
+      "zip": "2000004"
     },
     "website": "https://portfolio-jm.vercel.app/",
     "resumedownload_EN_Now": "https://drive.google.com/uc?export=download&id=18B-upYd9eh2OCYCQPjTYGFqsJQKFEda9",
